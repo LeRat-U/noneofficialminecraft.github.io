@@ -1,0 +1,165 @@
+body {
+	background:url("https://img.wallpapersafari.com/tablet/768/1024/64/71/Pc6kJd.jpg") fixed;
+	background-repeat:no-repeat;
+	background-position:center 10%;
+	background-size:cover;
+	background-color: rgba(0,0,0,20);
+ 	position: absolute;
+}
+
+
+h1 {
+	color : #ffffff ;
+	transition: transform 0.4s;
+	margin-left:20px;
+	
+}
+
+h1:hover{
+	transition: transform 0.4s;
+}
+
+.p1{
+	background-image: url('https://th.bing.com/th/id/R.b21f7bcfe135f8a15c1ea870734e6d24?rik=AqgrSaDaQUmMTw&pid=ImgRaw&r=0');
+	background-size:cover;
+	background-position:center;
+	padding-left:30px;
+	padding-right:30px;
+	display:inline-block;
+ 	border-radius:12px;
+	left: 40px; 
+	top: 40px;
+}
+
+.p2{
+	background-image: url('https://4.bp.blogspot.com/-sac2Slfk3Pc/T6AuMCIWdoI/AAAAAAAABOU/6IlxXPQ0vlg/s1600/minecraft_cobble.jpg');
+	background-size:cover;
+	background-position:center;
+	padding-left:30px;
+	padding-right:30px;
+	display:inline-block;
+ 	border-radius:12px;
+	left: 40px; 
+	top: 40px;
+}
+
+.p3{
+	background-image: url('https://mineblocks.com/1/wiki/images/archive/7/72/20180218121515!Netherrack.png');
+	background-size:cover;
+	background-position:center;
+	padding-left:30px;
+	padding-right:30px;
+	display:inline-block;
+ 	border-radius:12px;
+	left: 40px; 
+	top: 40px;
+}
+
+
+
+
+h3 {
+	color : white ;
+}
+
+
+p { 
+	color : black ;
+}
+
+.img1 {
+	transition: transform 0.4s;
+	border-radius:15px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+	margin-left:4px;
+	display:inline-block;
+}
+
+.img1:hover {
+  transform: scale(1.015);
+}
+
+.img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+::selection {
+	background-color:#747474;
+}
+h1 {
+  font-size: 26px;
+  transition: font-size 0.2s ease;
+}
+
+h1:hover {
+  font-size: 30px;
+  transform: translateX(15px);
+}
+
+.icons {
+	display:inline-block;
+	margin-left:2px;
+	margin-right:0px;
+	border-radius:30px;
+	transition:transform 0.1s;
+}
+
+.icons:hover{
+	transform:scale(1.1)
+}
+
+h3 {
+	text-align: center;
+	margin: auto;
+	bottom:-5px;
+	border-radius:5px;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+}
+
+li {
+	margin: 0 40px;
+}
+
+.smO{
+	background-image:url('https://64.media.tumblr.com/4174fb2d97075bc9a71b07750cd7662e/280c17ba80243bc6-de/s640x960/36e75d3a21583e3a03c23e9cb3ee3409df93b4a6.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-blend-mode: multiply;
+	border-radius:5px;
+	padding-top: 30px;
+	padding-bottom:10px;
+}
+
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+::-webkit-scrollbar-track {
+  background-image:url('https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/minecraftpaper-02-091815-727_SB_PM.jpg')
+}
+
+::-webkit-scrollbar-thumb {
+  background-image: url('https://th.bing.com/th/id/R.b21f7bcfe135f8a15c1ea870734e6d24?rik=AqgrSaDaQUmMTw&pid=ImgRaw&r=0');
+  border-radius: 6px; 
+}
+
+p{
+	color:white;
+}
+
+.copyright{
+	margin-left:30px;
+margin-top:30px;
+}
+
+.maj{
+	float:right;
+	margin-right:30px;
+	margin-top:-30px

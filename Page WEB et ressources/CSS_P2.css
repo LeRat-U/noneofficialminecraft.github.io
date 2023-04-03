@@ -1,0 +1,124 @@
+body {
+	background:url('https://i.pinimg.com/originals/5e/78/68/5e7868c61e8ae310b79e72bbac0fc917.png') fixed;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	background-color: rgba(0, 0, 0, 10);
+	
+}
+
+
+h1 {
+	color : #ffffff ;
+	background-image: url('https://4.bp.blogspot.com/-sac2Slfk3Pc/T6AuMCIWdoI/AAAAAAAABOU/6IlxXPQ0vlg/s1600/minecraft_cobble.jpg');
+	background-size:cover;
+	transition:transform 0.3s;
+	background-position:center right;
+	padding-left:20px;
+	padding-right:20px;
+	margin-left:30px;
+	display:inline-block;
+ 	border-radius:13px;
+	left: 40px; 
+	top: 40px;
+}
+h1:hover{
+	transform:translateX(15px);
+}
+h3 {
+	color : white ;
+	position:strict;
+}
+
+.img1 {
+	float:right;
+	transition: transform 0.3s;
+	border-radius:15px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+	margin-right:30px;
+}
+
+.img1:hover {
+  transform: scale(1.05);
+}
+
+.img2 {
+	float:left;
+	transition: transform 0.3s;
+	border-radius:15px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.img2:hover {
+  transform: scale(1.05);
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center; 
+}
+
+li {
+  margin: 0 40px;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+::selection {
+	background-color:#747474;
+}
+h1 {
+  font-size: 26px;
+}
+
+.button {
+	margin-left:20px;
+	margin-top:40px;
+	display:inline-block;
+	border-radius:10px;
+	transition: transform 0.2s;
+	scale:(0.9);
+}
+
+.button:hover {
+  transform: translateY(-10px);
+}
+
+.infos{
+	background-image:url('https://64.media.tumblr.com/4174fb2d97075bc9a71b07750cd7662e/280c17ba80243bc6-de/s640x960/36e75d3a21583e3a03c23e9cb3ee3409df93b4a6.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border-radius:5px;
+	background-blend-mode: multiply;
+	padding: 40px;
+}
+
+p {
+	color:white
+}
+
+.maj{
+	float:right;
+	margin-right:20px;
+	margin-top:-5px
+}
+
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+::-webkit-scrollbar-track {
+  background-image:url('https://th.bing.com/th/id/R.7ea58dd44fd95666692cb0eec8d0c2e5?rik=TKvIcG3aUVcPBg&pid=ImgRaw&r=0')
+}
+
+::-webkit-scrollbar-thumb {
+  background-image: url('https://4.bp.blogspot.com/-sac2Slfk3Pc/T6AuMCIWdoI/AAAAAAAABOU/6IlxXPQ0vlg/s1600/minecraft_cobble.jpg');
+  border-radius: 6px; 
+}

@@ -1,0 +1,125 @@
+body {
+	background:url("https://img.wallpapersafari.com/tablet/768/1024/64/71/Pc6kJd.jpg") fixed;
+	background-repeat:no-repeat;
+	background-position:center 10%;
+	background-size:cover;
+	background-color: rgba(0,0,0,20);
+}
+
+
+h1 {
+	color : #ffffff ;
+	background-image: url('https://th.bing.com/th/id/R.b21f7bcfe135f8a15c1ea870734e6d24?rik=AqgrSaDaQUmMTw&pid=ImgRaw&r=0');
+	background-size:cover;
+	transition:transform 0.3s;
+	background-position:center right;
+	padding-left:20px;
+	padding-right:20px;
+	margin-left:30px;
+	display:inline-block;
+ 	border-radius:13px;
+	left: 40px; 
+	top: 40px;
+}
+h1:hover{
+	transform:translateX(15px);
+}
+h3 {
+	color : white ;
+}
+
+.img1 {
+	float:left;
+	transition: transform 0.4s;
+	border-radius:15px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+	margin-right:30px;
+	margin-left:30px;
+}
+
+.img1:hover {
+  transform: scale(1.1);
+}
+
+.img2 {
+	float:center;
+	transition: transform 0.4s;
+	border-radius:15px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+	margin-left:15px;
+}
+
+.img2:hover {
+  transform: scale(1.1);
+}
+
+.img3 {
+	float:right;
+	transition: transform 0.4s;
+	border-radius:15px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+	margin-right:30px;
+	margin-left:30px;
+}
+
+.img3:hover {
+  transform: scale(1.1);
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+::selection {
+	background-color:#747474;
+}
+h1 {
+  font-size: 26px;
+}
+
+.button {
+	margin-left:20px;
+	margin-top:40px;
+	display:inline-block;
+	border-radius:10px;
+	transition: transform 0.2s;
+	scale:(0.9);
+}
+
+.button:hover {
+  transform: translateY(-10px);
+}
+
+.infos{
+	background-image:url('https://64.media.tumblr.com/4174fb2d97075bc9a71b07750cd7662e/280c17ba80243bc6-de/s640x960/36e75d3a21583e3a03c23e9cb3ee3409df93b4a6.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	border-radius:5px;
+	background-blend-mode: multiply;
+	padding: 40px;
+}
+
+p {
+	color:white
+}
+
+.maj{
+	float:right;
+	margin-right:20px;
+	margin-top:-5px
+}
+
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+::-webkit-scrollbar-track {
+  background-image:url('https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/minecraftpaper-02-091815-727_SB_PM.jpg')
+}
+
+::-webkit-scrollbar-thumb {
+  background-image: url('https://th.bing.com/th/id/R.b21f7bcfe135f8a15c1ea870734e6d24?rik=AqgrSaDaQUmMTw&pid=ImgRaw&r=0');
+  border-radius: 6px; 
+}
