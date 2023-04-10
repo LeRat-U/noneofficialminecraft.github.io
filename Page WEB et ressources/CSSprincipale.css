@@ -55,6 +55,17 @@ h1:hover{
 	top: 40px;
 }
 
+.p4{
+	background-image: url('https://lh3.googleusercontent.com/14bEE5sqon0YbXf5NzwdDuU8xr4BYAFfPeF8DKflNH_-tuBcu9DL3EuPhepVyoyMnlwHARYo7OK1ZmrXKlvlym0=s400');
+	background-size:cover;
+	background-position:center;
+	padding-left:30px;
+	padding-right:30px;
+	display:inline-block;
+ 	border-radius:12px;
+	left: 40px; 
+	top: 40px;
+}
 
 
 

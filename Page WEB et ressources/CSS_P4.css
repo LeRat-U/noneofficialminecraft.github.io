@@ -1,5 +1,5 @@
 body {
-	background:url('https://i.pinimg.com/originals/63/78/c8/6378c8629979b78fc46dd3cdacc7e7f6.png') fixed;
+	background:url('https://lh3.googleusercontent.com/14bEE5sqon0YbXf5NzwdDuU8xr4BYAFfPeF8DKflNH_-tuBcu9DL3EuPhepVyoyMnlwHARYo7OK1ZmrXKlvlym0=s400') fixed;
 	background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
@@ -10,7 +10,7 @@ body {
 
 h1 {
 	color : #ffffff ;
-	background-image: url('https://i.pinimg.com/originals/63/78/c8/6378c8629979b78fc46dd3cdacc7e7f6.png');
+	background-image: url('https://forum.plutonium.pw/assets/uploads/files/1621444988074-crying_obsidian.png');
 	background-size:cover;
 	transition:transform 0.3s;
 	background-position:center right;
@@ -115,11 +115,11 @@ p {
 }
 
 ::-webkit-scrollbar-track {
-  background-image:url('https://i.pinimg.com/originals/8d/53/a4/8d53a44e6e34cd63c97228c8c93b9795.png')
+  background-image:url('https://wallpapercave.com/wp/wp6065685.jpg')
 }
 
 ::-webkit-scrollbar-thumb {
-  background-image: url('https://mineblocks.com/1/wiki/images/d/d6/Nether_Bricks.png');
+  background-image: url('https://i.pinimg.com/originals/92/a5/45/92a5450b2a48e64c2d7a1b43a43d5e75.png');
   border-radius: 6px; 
 }
 
